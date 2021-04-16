@@ -186,7 +186,7 @@
 
         var
             NAME = 'settings',
-            DEFAULT = JSON.parse('{"_static_":{"userscriptDelay":1000,"maxConsecutiveMinutes":360,"maxDailyMinutes":600,"dailyGoalMinutes":{"0":0,"1":528,"2":528,"3":528,"4":528,"5":528,"6":0},"initialWeekday":1,"gaTrackingId":"UA-105390656-1","qzKeepalive":60000,"ksKeepalive":1200000,"noticeRangeMinutes":[15,5,3,1],"notice_icon":"https://github.com/viniciusknob/queiroz.js/raw/master/src/img/ic_notification.png"},"_mutable_":{"hideLastWeekDays":true}}'),
+            DEFAULT = JSON.parse('{"_static_":{"userscriptDelay":1000,"maxConsecutiveMinutes":360,"maxDailyMinutes":600,"dailyGoalMinutes":{"0":0,"1":480,"2":480,"3":480,"4":480,"5":480,"6":0},"initialWeekday":1,"gaTrackingId":"UA-105390656-1","qzKeepalive":60000,"ksKeepalive":1200000,"noticeRangeMinutes":[15,5,3,1],"notice_icon":"https://github.com/viniciusknob/queiroz.js/raw/master/src/img/ic_notification.png"},"_mutable_":{"hideLastWeekDays":true}}'),
             KEY = {
                 hideLastWeekDays: 'hideLastWeekDays'
             },
